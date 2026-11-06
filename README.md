@@ -1,6 +1,6 @@
 # The Dreamless Machine & The Nameless Box
 
-**A Historical, Scientific, and Philosophical Fiction Series**
+**A Historical and Philosophical Science Fiction Series**
 
 **Author: Gauss-K (高斯)**
 
@@ -12,7 +12,7 @@
 
 Spanning centuries, the narrative moves from the Renaissance and the Scientific Revolution to Albert Einstein's era and a future shaped by intelligent machines.
 
-Blending historical fiction, science fiction, and philosophical reflection, the novels explore scientific progress, the relationship between knowledge and power, human creativity, freedom, love, and responsibility.
+Blending science fiction, historical fiction, and philosophical reflection, the novels explore scientific progress, the relationship between knowledge and power, human creativity, freedom, love, and responsibility.
 
 At the heart of the series lies a question:
 
