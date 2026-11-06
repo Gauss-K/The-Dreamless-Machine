@@ -18,8 +18,6 @@ At the heart of the series lies a question:
 
 **When machines can think, reason, and discover, what does it mean to be human?**
 
----
-
 ## The Books
 
 ### I. The Dreamless Machine (不会做梦的机器)
@@ -52,8 +50,6 @@ The prequel traces the historical and philosophical foundations of the world exp
 - [English Edition — PDF](./The-Nameless-Box.pdf)
 - [中文版 — PDF](./没有名字的匣子.pdf)
 
----
-
 ## Reading Order
 
 The series consists of a main novel and its historical prequel:
@@ -75,8 +71,6 @@ Both novels are available in **English** and **Simplified Chinese**.
 
 两部小说均提供英文版和简体中文版。
 
----
-
 ## Copyright & Usage
 
 **Copyright © 2026 Gauss-K. All rights reserved.**
@@ -87,8 +81,14 @@ All rights are reserved by the author. Reproduction, redistribution, adaptation,
 
 The public availability of these works on GitHub does not constitute a grant of an open-content license.
 
----
+## Contact & Discussions
 
+Readers are welcome to share their thoughts, questions, and feedback in the **GitHub Discussions** section.
+
+For copyright inquiries or permission requests, please also use GitHub Discussions.
+<br>
+<br>
+<br>
 **Gauss (高斯)**
 
 *Science Fiction · Science · History · Philosophy · Literature*
