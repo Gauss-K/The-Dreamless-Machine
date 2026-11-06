@@ -2,7 +2,7 @@
 
 **A Historical, Scientific, and Philosophical Fiction Series**
 
-**Author: Gauss (高斯)**
+**Author: Gauss-K (高斯)**
 
 *Available in English and Chinese | 提供英文版与中文版*
 
@@ -34,8 +34,8 @@ The novel explores scientific ambition, the limitations of knowledge, and the en
 
 **Read / 阅读**
 
-- [English Edition — PDF](./The-Dreamless-Machine-EN.pdf)
-- [中文版 — PDF](./The-Dreamless-Machine-CN.pdf)
+- [English Edition — PDF](./The-Dreamless-Machine.pdf)
+- [中文版 — PDF](./不会做梦的机器.pdf)
 
 ### II. The Nameless Box (没有名字的匣子)
 
@@ -49,8 +49,8 @@ The prequel traces the historical and philosophical foundations of the world exp
 
 **Read / 阅读**
 
-- [English Edition — PDF](./The-Nameless-Box-EN.pdf)
-- [中文版 — PDF](./The-Nameless-Box-CN.pdf)
+- [English Edition — PDF](./The-Nameless-Box.pdf)
+- [中文版 — PDF](./没有名字的匣子.pdf)
 
 ---
 
@@ -79,7 +79,7 @@ Both novels are available in **English** and **Simplified Chinese**.
 
 ## Copyright & Usage
 
-**Copyright © 2026 Gauss. All rights reserved.**
+**Copyright © 2026 Gauss-K. All rights reserved.**
 
 Both *The Dreamless Machine* and *The Nameless Box*, including their Chinese and English editions, are made freely available for personal reading and reference.
 
