@@ -83,7 +83,7 @@ Both novels are available in **English** and **Simplified Chinese**.
 
 Both *The Dreamless Machine* and *The Nameless Box*, including their Chinese and English editions, are made freely available for personal reading and reference.
 
-All rights are reserved by the author. Reproduction, redistribution, adaptation, translation, or commercial use of these works requires prior written permission, except as permitted by applicable copyright law.
+All rights are reserved by the author. Reproduction, redistribution, adaptation, translation, or commercial use of these works requires prior written permission.
 
 The public availability of these works on GitHub does not constitute a grant of an open-content license.
 
